@@ -1,0 +1,4 @@
+Rencana Website
+- Membuat Website E-Commerce
+- Membuar Website To Do List
+- Membuat Website pake bahasa pemograman Javasript
